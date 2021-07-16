@@ -1,0 +1,43 @@
+.navbar {
+  background-color: #f781be;
+}
+
+.margin {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.menu1 {
+  background-color: #d8d8d8;
+  font-weight: 500;
+  padding-top: 0.5px;
+}
+
+.menu1 .menu1-desc {
+  padding-top: 10px;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu2 {
+  font-weight: 500;
+  padding-top: 0.5px;
+}
+
+.menu3 {
+  background-color: #d8d8d8;
+  padding-top: 0.5px;
+  font-weight: 500;
+}
+
+input,
+button {
+  
+}
+
+footer {
+  padding-top: 10px;
+  background-color: black;
+  color: white;
+  text-align: justify;
+}
