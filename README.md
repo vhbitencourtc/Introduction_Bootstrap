@@ -1,2 +1,5 @@
-# Digital Innovation One - Bootstrap
-Aprendendo sobre os framework Bootstrap
+# <p align="center">Digital Innovation One - Bootstrap</p>
+#### Aprendendo sobre os framework Bootstrap
+
+> O projeto foi finalizado, porém ainda irei realizar algumas ajustes e por fim fazer publicação. Como também, irei dar uma `"roupagem"`melhor no `GitHub` :octocat:
+
