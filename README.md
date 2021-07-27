@@ -8,12 +8,15 @@
 ### :balloon:Tecnologias
 ---
 O projeto foi desenvolvido com as linguagens:
-- ``HTML``
-- ``CSS``
-- ``JavaScript``
+- `HTML`
+- `CSS`
+- `JavaScript`
 
 Utilitários
 - [Bing Imagens](https://www.bing.com/?scope=images&nr=1&FORM=NOFORM)
+- [HTML Color Codes](https://html-color-codes.info/)
+- [Pexels](https://www.pexels.com/pt-br/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## :computer:Projeto
 Curso ministrado pelo `Prof. Rafael Galleani`, aprendendo um pouco sobre os `framework Bootstrap`.
