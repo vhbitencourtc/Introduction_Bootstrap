@@ -14,7 +14,7 @@ Utilitários
 - [Bootstrap](https://getbootstrap.com/)
 
 ## :computer:Projeto
-> O projeto foi finalizado, porém ainda irei realizar algumas ajustes e por fim fazer publicação. Como também, irei dar uma `"roupagem"` melhor no `GitHub` :octocat:
+> O projeto foi finalizado, porém ainda irei realizar algumas ajustes e por fim fazer publicação. Como também, irei dar uma `"roupagem"` melhor no `GitHub` :octocat: .
 Curso ministrado pelo `Prof. Rafael Galleani`, aprendendo um pouco sobre os `framework Bootstrap`.
 
 ## 📝Contribuições
